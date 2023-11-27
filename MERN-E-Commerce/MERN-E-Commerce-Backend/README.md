@@ -1,12 +1,8 @@
-## Live Link
-
-You can access the live application at [https://e-shopit.vercel.app/](https://e-shopit.vercel.app/).
-
 # MERN-E-Commerce-Backend
 
 MERN-E-Commerce-Backend is the backend of an e-commerce web application built with MongoDB, NodeJS, and ExpressJS.
 
-The frontend of the application is built with ReactJS, Material UI, React-router-dom,ContextAPI. The source code for the frontend can be found at [https://github.com/Saurabh-8585/MERN-E-Commerce-Frontend](https://github.com/Saurabh-8585/MERN-E-Commerce-Frontend).
+The frontend of the application is built with ReactJS, Material UI, React-router-dom,ContextAPI.
 
 ## Features
 
@@ -53,11 +49,6 @@ The frontend of the application is built with ReactJS, Material UI, React-router
 To run the backend server on your local machine, follow these steps:
 
 1. Clone the repository:
-
-   ```
-   git clone https://github.com/Saurabh-8585/MERN-E-Commerce-Backend.git
-   ```
-
 2. Install the dependencies:
 
    ```
@@ -70,11 +61,3 @@ To run the backend server on your local machine, follow these steps:
    ```
    npm run server
    ```
-
-## Contributing
-
-Contributions to the project are welcome. If you find a bug or want to add a new feature, please create a new issue or pull request.
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more information.
